@@ -1,0 +1,23 @@
+# OrthoScope backend dependencies.
+# Pinned to the versions the pipeline is developed and tested against.
+#
+# MAFFT is NOT installable from PyPI — install it separately:
+#   conda install -c bioconda mafft   (or: brew install mafft / apt install mafft)
+# See environment.yml or Dockerfile for a setup that handles it for you.
+
+fastapi==0.136.1
+uvicorn[standard]==0.47.0
+pydantic==2.13.4
+
+requests==2.34.2
+urllib3==2.7.0
+beautifulsoup4==4.14.3
+
+biopython==1.87
+pandas==2.3.3
+pillow==12.2.0
+
+# Open-source PyMOL, redistributed as a wheel. Provides manylinux x86_64,
+# macOS (arm64 + x86_64) and Windows builds for CPython 3.10-3.12.
+# There is no linux/arm64 wheel — build containers for linux/amd64.
+pymol-open-source-whl==3.1.0.4

@@ -1,0 +1,69 @@
+LOCUS       P00533                  1210 aa                     UNK 01-JAN-1980
+DEFINITION  EGFR.
+ACCESSION   P00533
+VERSION     P00533
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     SIGNAL          1..24
+                     /note=""
+     CHAIN           25..1210
+                     /note="Epidermal growth factor receptor"
+     ECD             25..645
+                     /note="Extracellular"
+     TM              646..668
+                     /note="Helical"
+     CYTO            669..1210
+                     /note="Cytoplasmic"
+     GLYCOSYLATION   56
+                     /note="N-linked (GlcNAc...) (complex) asparagine; atypical;
+                     partial"
+     GLYCOSYLATION   73
+                     /note="N-linked (GlcNAc...) asparagine; atypical"
+     GLYCOSYLATION   128
+                     /note="N-linked (GlcNAc...) asparagine"
+     GLYCOSYLATION   175
+                     /note="N-linked (GlcNAc...) asparagine"
+     GLYCOSYLATION   196
+                     /note="N-linked (GlcNAc...) asparagine"
+     GLYCOSYLATION   352
+                     /note="N-linked (GlcNAc...) asparagine"
+     GLYCOSYLATION   361
+                     /note="N-linked (GlcNAc...) asparagine"
+     GLYCOSYLATION   413
+                     /note="N-linked (GlcNAc...) asparagine"
+     GLYCOSYLATION   444
+                     /note="N-linked (GlcNAc...) asparagine"
+     GLYCOSYLATION   528
+                     /note="N-linked (GlcNAc...) asparagine"
+     GLYCOSYLATION   568
+                     /note="N-linked (GlcNAc...) asparagine; partial"
+     GLYCOSYLATION   603
+                     /note="N-linked (GlcNAc...) asparagine; partial"
+     GLYCOSYLATION   623
+                     /note="N-linked (GlcNAc...) (high mannose) asparagine"
+ORIGIN
+        1 mrpsgtagaa llallaalcp asraleekkv cqgtsnkltq lgtfedhfls lqrmfnncev
+       61 vlgnleityv qrnydlsflk tiqevagyvl ialntverip lenlqiirgn myyensyala
+      121 vlsnydankt glkelpmrnl qeilhgavrf snnpalcnve siqwrdivss dflsnmsmdf
+      181 qnhlgscqkc dpscpngscw gageencqkl tkiicaqqcs grcrgkspsd cchnqcaagc
+      241 tgpresdclv crkfrdeatc kdtcpplmly npttyqmdvn pegkysfgat cvkkcprnyv
+      301 vtdhgscvra cgadsyemee dgvrkckkce gpcrkvcngi gigefkdsls inatnikhfk
+      361 nctsisgdlh ilpvafrgds fthtppldpq eldilktvke itgflliqaw penrtdlhaf
+      421 enleiirgrt kqhgqfslav vslnitslgl rslkeisdgd viisgnknlc yantinwkkl
+      481 fgtsgqktki isnrgensck atgqvchalc spegcwgpep rdcvscrnvs rgrecvdkcn
+      541 llegeprefv enseciqchp eclpqamnit ctgrgpdnci qcahyidgph cvktcpagvm
+      601 genntlvwky adaghvchlc hpnctygctg pglegcptng pkipsiatgm vgalllllvv
+      661 algiglfmrr rhivrkrtlr rllqerelve pltpsgeapn qallrilket efkkikvlgs
+      721 gafgtvykgl wipegekvki pvaikelrea tspkankeil deayvmasvd nphvcrllgi
+      781 cltstvqlit qlmpfgclld yvrehkdnig sqyllnwcvq iakgmnyled rrlvhrdlaa
+      841 rnvlvktpqh vkitdfglak llgaeekeyh aeggkvpikw malesilhri ythqsdvwsy
+      901 gvtvwelmtf gskpydgipa seissilekg erlpqppict idvymimvkc wmidadsrpk
+      961 freliiefsk mardpqrylv iqgdermhlp sptdsnfyra lmdeedmddv vdadeylipq
+     1021 qgffsspsts rtpllsslsa tsnnstvaci drnglqscpi kedsflqrys sdptgalted
+     1081 siddtflpvp eyinqsvpkr pagsvqnpvy hnqplnpaps rdphyqdphs tavgnpeyln
+     1141 tvqptcvnst fdspahwaqk gshqisldnp dyqqdffpke akpngifkgs taenaeylrv
+     1201 apqssefiga
+//

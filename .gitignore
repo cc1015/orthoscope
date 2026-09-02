@@ -1,0 +1,28 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.env/
+venv/
+.venv/
+
+# Distribution / packaging
+*.egg-info/
+build/
+dist/
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+
+# Office documents and lock files (superseded by the web UI)
+*.pptx
+*.docx
+*.xlsx
+~$*
+
+# Pipeline-generated artefacts
+output_*/

@@ -1,0 +1,12 @@
+.git
+.gitignore
+.DS_Store
+**/__pycache__
+**/*.py[cod]
+
+# Pipeline artefacts — these belong in the mounted volume, not the image.
+output_*/
+
+frontend/
+README.md
+docker-compose.yml

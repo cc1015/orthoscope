@@ -1,0 +1,17 @@
+# Conda environment for the OrthoScope backend.
+#
+#   conda env create -f environment.yml
+#   conda activate orthoscope
+#
+# Conda supplies Python and MAFFT (which has no PyPI distribution); everything
+# else — including open-source PyMOL — comes from requirements.txt via pip.
+name: orthoscope
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - mafft=7.525
+  - pip
+  - pip:
+      - -r requirements.txt

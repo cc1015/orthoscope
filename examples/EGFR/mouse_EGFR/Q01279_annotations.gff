@@ -1,0 +1,16 @@
+##gff-version 3
+Q01279	UniProtKB	SIGNAL	1	24	.	.	.	
+Q01279	UniProtKB	CHAIN	25	1210	.	.	.	Epidermal growth factor receptor
+Q01279	UniProtKB	ECD	25	647	.	.	.	Extracellular
+Q01279	UniProtKB	TM	648	670	.	.	.	Helical
+Q01279	UniProtKB	CYTO	671	1210	.	.	.	Cytoplasmic
+Q01279	UniProtKB	GLYCOSYLATION	128	128	.	.	.	N-linked (GlcNAc...) asparagine
+Q01279	UniProtKB	GLYCOSYLATION	175	175	.	.	.	N-linked (GlcNAc...) asparagine
+Q01279	UniProtKB	GLYCOSYLATION	196	196	.	.	.	N-linked (GlcNAc...) asparagine
+Q01279	UniProtKB	GLYCOSYLATION	352	352	.	.	.	N-linked (GlcNAc...) asparagine
+Q01279	UniProtKB	GLYCOSYLATION	413	413	.	.	.	N-linked (GlcNAc...) asparagine
+Q01279	UniProtKB	GLYCOSYLATION	444	444	.	.	.	N-linked (GlcNAc...) asparagine
+Q01279	UniProtKB	GLYCOSYLATION	528	528	.	.	.	N-linked (GlcNAc...) asparagine
+Q01279	UniProtKB	GLYCOSYLATION	568	568	.	.	.	N-linked (GlcNAc...) asparagine
+Q01279	UniProtKB	GLYCOSYLATION	603	603	.	.	.	N-linked (GlcNAc...) asparagine
+Q01279	UniProtKB	GLYCOSYLATION	623	623	.	.	.	N-linked (GlcNAc...) asparagine
